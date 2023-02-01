@@ -1,0 +1,43 @@
+.Header-header {
+  padding: 1rem 0 1rem 0;
+}
+
+.Header-logo {
+  border: 3.1px solid #0e345a;
+  font-size: 19px;
+  cursor: pointer;
+}
+
+.Header-logo h2 {
+  font-weight: 800;
+  background: #0e345a;
+  color: #ffffff;
+  padding: 0 0.4rem 0 0.4rem;
+}
+
+.Header-logo div {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  padding: 0 0.7rem 0 0.7rem;
+  color: #0e345a;
+  background: #ffffff;
+}
+
+.Header-logo div:hover {
+  color: #ffffff;
+  background: #0e345a;
+  transition: 0.5s;
+}
+
+.Header-menu div {
+  color: #0e345a;
+  padding-left: 1rem;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.Header-menu div:hover {
+  color: #a9c1d7;
+  cursor: pointer;
+  transition: 0.5s;
+}

@@ -1,0 +1,8 @@
+.PageMain-container {
+  border: 1px solid red;
+}
+
+.PageMain-container div img{
+  width: -webkit-fill-available;
+  height: 524px;
+}
