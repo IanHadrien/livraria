@@ -2,7 +2,21 @@
   border: 1px solid red;
 }
 
-.PageMain-container div img{
+.PageMain-container div.PageMain-image {
   width: -webkit-fill-available;
   height: 524px;
+}
+
+.PageMain-image {
+  background-image: url("../assets/img/imageBookMony3.jpg");
+}
+
+.PageMain-image p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 80px;
+  font-weight: 800;
+
+  color: #ffffff;
+  padding: 2rem;
+  text-transform: uppercase;
 }
