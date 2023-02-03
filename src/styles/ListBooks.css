@@ -1,0 +1,61 @@
+.ListBooks-ImgContainer {
+  position: relative;
+  text-align: center;
+}
+
+.ListBooks-View {
+  padding: 0.8rem 0 0.8rem 0;
+  visibility: hidden;
+
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.ListBooks-ImgContainer:hover .ListBooks-View {
+  background: #ffffff;
+  opacity: 0.7;
+  visibility: initial;
+  transition: 0.6s;
+}
+
+.ListBooks-Open {
+  border: 3px solid;
+  cursor: pointer;
+  visibility: hidden;
+}
+
+.ListBooks-Open:hover {
+  color: #e8e5e5;
+  transition: 0.5s;
+}
+
+.ListBooks-Container:hover .ListBooks-Open {
+  transition: 0.8s;
+  visibility: initial;
+}
+
+@media (max-width: 940px) {
+  .ListBooks-grid {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 622px) {
+  .ListBooks-grid {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 407px) {
+  .ListBooks-grid {
+    display: grid !important;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}

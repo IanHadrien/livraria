@@ -4,7 +4,8 @@
 
 .PageMain-container div.PageMain-image {
   width: -webkit-fill-available;
-  height: 524px;
+  /* height: 524px; */
+  height: auto;
 }
 
 .PageMain-image {
@@ -19,4 +20,16 @@
   color: #ffffff;
   padding: 2rem;
   text-transform: uppercase;
+}
+
+.PageMain-Components {
+  border: 1px solid;
+  margin-top: 5rem;
+  padding-bottom: 2rem;
+}
+
+.ListBooks-BordaBottom {
+  border: 1px solid #ffffff;
+  margin-top: 2rem;
+  width: 30px;
 }
