@@ -6,16 +6,15 @@ import "./styles/global.css";
 
 function App() {
   return (
-    <div className="p-8">
-      <BrowserRouter>
+    <BrowserRouter>
+      <div className="p-8">
         <Header />
         <Routes>
           <Route path="/" element={<PageMain />}/>
         </Routes>
-        <Footer />
-      </BrowserRouter>
-    </div>
-
+      </div>
+      <Footer />
+    </BrowserRouter>
   )
 }
 

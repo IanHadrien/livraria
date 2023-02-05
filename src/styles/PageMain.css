@@ -1,7 +1,3 @@
-.PageMain-container {
-  border: 1px solid red;
-}
-
 .PageMain-container div.PageMain-image {
   width: -webkit-fill-available;
   /* height: 524px; */

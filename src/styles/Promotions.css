@@ -1,0 +1,21 @@
+.Promotions-BordaBottom {
+  border: 1px solid;
+  margin: 0.5rem 0 0.5rem 0;
+  width: 20px;
+}
+
+.Promotions-Button {
+  padding-top: 1.5rem;
+}
+
+.Promotions-Button button {
+  border: 3px solid #0e345a;
+  padding: 0.5rem 2rem 0.5rem 2rem;
+  color: #0e345a;
+}
+
+.Promotions-Button button:hover {
+  color: #ffffff;
+  background-color: #0e345a;
+  transition: 0.6s;
+}

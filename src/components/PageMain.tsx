@@ -2,6 +2,7 @@ import "../styles/PageMain.css";
 import ImageBookMony from "../assets/img/imageBookMony.jpg";
 import { Title } from "./Title";
 import { ListBooks } from "./ListBooks";
+import { Promotions } from "./Promotions";
 
 export const PageMain = () => {
   return (
@@ -49,9 +50,7 @@ export const PageMain = () => {
         <div className="flex justify-center"><div className="ListBooks-BordaBottom" /></div>
       </div>
       
-      <div>
-        Componente de Promoção
-      </div>
+      <Promotions />
     </div>
   )
 }
