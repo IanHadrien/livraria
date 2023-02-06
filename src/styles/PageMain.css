@@ -29,3 +29,14 @@
   margin-top: 2rem;
   width: 30px;
 }
+
+/* Componente de Title */
+@media (max-width: 500px) {  
+  .Title-container p {
+    font-size: 15px;
+  }
+  
+  .Title-container h2 {
+    font-size: 25px;
+  }
+}
