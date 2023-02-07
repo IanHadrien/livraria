@@ -1,97 +1,50 @@
 [
   {
     "id": 1,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
+    "titulo": "Pai Rico Pai Pobre",
+    "preco": "19.90", 
+    "nomeAutor": "Robert Kiyosaki",
+    "img": "../src/assets/img-books/PaiRicoPaiPobre.png",
+    "link": "https://go.hotmart.com/Y79391498F"
   },
   {
     "id": 2,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
+    "titulo": "O Homem Mais Rico da Babilônia",
+    "preco": "20.00", 
+    "nomeAutor": "George S. Clason",
+    "img": "../src/assets/img-books/OHomemMaisRicoBabilonia.png",
+    "link": "https://go.hotmart.com/L79393895K"
   },
   {
     "id": 3,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
+    "titulo": "Os Segredos da Mente Milionária",
+    "preco": "20.98", 
+    "nomeAutor": "T. Harv Eker",
+    "img": "../src/assets/img-books/MentesMilionarias.jpg",
+    "link": "https://go.hotmart.com/J79393994F"
   },
   {
     "id": 4,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
+    "titulo": "ME POUPE!",
+    "preco": "15.00", 
+    "nomeAutor": "Nathalia Arcuri",
+    "img": "../src/assets/img-books/MePoupe.png",
+    "link": "https://go.hotmart.com/H79394631N?ap=40ad"
   },
   {
     "id": 5,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
+    "titulo": "Do Mil ao Milhão",
+    "preco": "18.00", 
+    "nomeAutor": "Thiago Nigro",
+    "img": "../src/assets/img-books/DomilOuMilha.jpeg",
+    "link": "https://go.hotmart.com/C79394856C?dp=1"
   },
   {
     "id": 6,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
-  },
-  {
-    "id": 7,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
-  },
-  {
-    "id": 8,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
-  },
-  {
-    "id": 9,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
-  },
-  {
-    "id": 10,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
-  },
-  {
-    "id": 11,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
-  },
-  {
-    "id": 12,
-    "titulo": "",
-    "nomeAutor": "",
-    "img": "",
-    "link": ""
+    "titulo": "Os primeiros passos na bolsa de valores",
+    "preco": "10.00", 
+    "nomeAutor": "Rafael Mendes",
+    "img": "../src/assets/img-books/primeirospassos.png",
+    "link": "https://go.hotmart.com/W79398368F"
   }
 ]
-
-// "Pai Rico Pai Pobre" de Robert Kiyosaki
-// "O Investidor Inteligente" de Benjamin Graham
-// "Como Enriquecer na Bolsa com Pouco Dinheiro" de Luiz Barsi
-// "O Segredo das Ações" de João Paulo Oliveira
-// "O Homem Mais Rico da Babilônia" de George S. Clason
-// "Sua Carreira de Sucesso em Ações" de Luciano Tavares
-// "Os Segredos da Mente Milionária" de T. Harv Eker
-// "A Bíblia do Investidor de Sucesso" de Gustavo Cerbasi
-// "Ações para Iniciantes" de Marcelo Coutinho
-// "Guia Básico para Investir na Bolsa" de Pedro R. S. Novellino.

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7,
+    "titulo": "O poder da ação",
+    "preco": "12.50", 
+    "nomeAutor": "Paulo Vieira",
+    "img": "../src/assets/img-books/OpoderdaAcao.png",
+    "link": "https://sun.eduzz.com/1757589?a=54731699"
+  },
+  {
+    "id": 8,
+    "titulo": "MINDSET",
+    "preco": "20.00", 
+    "nomeAutor": "Carol S. Dweck",
+    "img": "../src/assets/img-books/mindset.png",
+    "link": "https://sun.eduzz.com/1723350?a=54731699"
+  },
+  {
+    "id": 9,
+    "titulo": "Mais Esperto Que O Diabo",
+    "preco": "15.00", 
+    "nomeAutor": "Napoleon Hill",
+    "img": "../src/assets/img-books/MaisEspertoqueD.png",
+    "link": "https://sun.eduzz.com/1666097?a=54731699"
+  },
+  {
+    "id": 10,
+    "titulo": "Quem Pensa Enriquece",
+    "preco": "12.00", 
+    "nomeAutor": "Napoleon Hill",
+    "img": "../src/assets/img-books/QuemPensinriquece.png",
+    "link": "https://sun.eduzz.com/1709925?a=54731699"
+  },
+  {
+    "id": 11,
+    "titulo": "Como convencer alguém em 90 segundos",
+    "preco": "20.00", 
+    "nomeAutor": "Nicholas Boothman",
+    "img": "../src/assets/img-books/newphoto.png",
+    "link": "https://sun.eduzz.com/1728096?a=54731699"
+  },
+  {
+    "id": 12,
+    "titulo": "O poder do hábito",
+    "preco": "16.00", 
+    "nomeAutor": "Charles Duhigg",
+    "img": "../src/assets/img-books/OpoderDoHabito.png",
+    "link": "https://chk.eduzz.com/1687629?a=54731699"
+  }
+]

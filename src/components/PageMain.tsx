@@ -7,16 +7,13 @@ import { Promotions } from "./Promotions";
 export const PageMain = () => {
   return (
     <div className="PageMain-container">
-      {/* <div className="PageMain-image">
-        <p>
-          Ler é um ato que <br />
-          nos liberta e nos <br /> 
-          dá asas para <br /> 
-          alcançar voos mais altos 
-        </p>
-      </div> */}
+      <Title 
+        title={"OS 12 Melhores livros para ajudar na sua educação financeira"} 
+        subTitle={""} 
+        color={"#0e345a"} 
+      />
 
-      <div className="text-color1 text-3xl text-center py-6">
+      <div className="PageMain-TextCenter text-color1 text-3xl text-center py-6">
         Ler livros sobre investimentos é uma ótima maneira de aprender sobre <br/>
         as diferentes estratégias e conceitos envolvidos na tomada de decisões <br/>
         de investimento. Além disso, ler livros escritos por investidores <br/>
@@ -32,7 +29,7 @@ export const PageMain = () => {
       />
 
       <div className="PageMain-Components bg-color1">
-        <ListBooks marginTop={"-80px"} />
+        <ListBooks marginTop={"-80px"} linkUrl={"../../db/ebooks.json"}/>
 
         <div className="flex justify-center"><div className="ListBooks-BordaBottom" /></div>
         <Title 
@@ -42,7 +39,7 @@ export const PageMain = () => {
         />
         <div className="flex justify-center"><div className="ListBooks-BordaBottom" /></div>
         
-        <ListBooks marginTop={"50px"}  />
+        <ListBooks marginTop={"50px"}  linkUrl={"../../db/ebooks2.json"}/>
 
         <div className="flex justify-center"><div className="ListBooks-BordaBottom" /></div>
 
